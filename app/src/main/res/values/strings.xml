@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Catalogue Movie UI UX</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="upcoming">UPCOMING</string>
+    <string name="detail_button">detail</string>
+    <string name="share_button">share</string>
+    <string name="search_fragment">Search</string>
+    <string name="share_text">Catalogue Movie</string>
+    <string name="change_languange">Change Languange</string>
+    <string name="judul_cari">Search your movie</string>
+</resources>

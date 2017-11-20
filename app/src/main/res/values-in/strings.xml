@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Katalog Film UI UX</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Buka navigation drawer</string>
+    <string name="navigation_drawer_close">Tutup navigation drawer</string>
+
+    <string name="action_settings">Pengaturan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing">MAIN SEKARANG</string>
+    <string name="upcoming">AKAN DATANG</string>
+    <string name="detail_button">DETAIL</string>
+    <string name="share_button">BAGIKAN</string>
+    <string name="search_fragment">CARI</string>
+    <string name="share_text">KATALOG FILM</string>
+    <string name="change_languange">Ganti Bahasa</string>
+    <string name="judul_cari">Judul film yang anda cari</string>
+</resources>
